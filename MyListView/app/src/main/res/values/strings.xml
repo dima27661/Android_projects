@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string-array name="names">
+     <item>Gtnz</item>
+        <item>Петя</item>
+        <item>Галя</item>
+        <item>Юля</item>
+    </string-array>
+</resources>
